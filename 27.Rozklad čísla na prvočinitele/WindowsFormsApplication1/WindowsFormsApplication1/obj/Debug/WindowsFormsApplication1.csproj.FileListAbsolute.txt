@@ -1,0 +1,27 @@
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\26.Prvočísla z intervalu\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\26.Prvočísla z intervalu\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\26.Prvočísla z intervalu\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\26.Prvočísla z intervalu\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\26.Prvočísla z intervalu\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\26.Prvočísla z intervalu\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\26.Prvočísla z intervalu\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\26.Prvočísla z intervalu\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\26.Prvočísla z intervalu\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\27.Rozklad čísla na prvočinitele\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\27.Rozklad čísla na prvočinitele\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\27.Rozklad čísla na prvočinitele\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\27.Rozklad čísla na prvočinitele\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\27.Rozklad čísla na prvočinitele\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\27.Rozklad čísla na prvočinitele\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\27.Rozklad čísla na prvočinitele\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\27.Rozklad čísla na prvočinitele\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\27.Rozklad čísla na prvočinitele\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\smid\Desktop\27.Rozklad čísla na prvočinitele\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\smid\Desktop\27.Rozklad čísla na prvočinitele\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\smid\Desktop\27.Rozklad čísla na prvočinitele\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\smid\Desktop\27.Rozklad čísla na prvočinitele\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\smid\Desktop\27.Rozklad čísla na prvočinitele\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\smid\Desktop\27.Rozklad čísla na prvočinitele\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\smid\Desktop\27.Rozklad čísla na prvočinitele\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\smid\Desktop\27.Rozklad čísla na prvočinitele\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\smid\Desktop\27.Rozklad čísla na prvočinitele\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
