@@ -1,0 +1,18 @@
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\45.Časovač\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\45.Časovač\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\45.Časovač\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\45.Časovač\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\45.Časovač\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\45.Časovač\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\45.Časovač\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\45.Časovač\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\45.Časovač\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\smid\Desktop\44.Časovač\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\smid\Desktop\44.Časovač\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\smid\Desktop\44.Časovač\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\smid\Desktop\44.Časovač\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\smid\Desktop\44.Časovač\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\smid\Desktop\44.Časovač\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\smid\Desktop\44.Časovač\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\smid\Desktop\44.Časovač\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\smid\Desktop\44.Časovač\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
