@@ -1,0 +1,32 @@
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\smid\Desktop\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\smid\Desktop\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\smid\Desktop\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\smid\Desktop\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\smid\Desktop\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\smid\Desktop\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\smid\Desktop\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\smid\Desktop\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\smid\Desktop\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\smid\Desktop\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+H:\SPOLECNY\ZACI\Šmíd\Programování\3.A\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+H:\SPOLECNY\ZACI\Šmíd\Programování\3.A\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+H:\SPOLECNY\ZACI\Šmíd\Programování\3.A\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+H:\SPOLECNY\ZACI\Šmíd\Programování\3.A\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+H:\SPOLECNY\ZACI\Šmíd\Programování\3.A\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+H:\SPOLECNY\ZACI\Šmíd\Programování\3.A\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\SPOLECNY\ZACI\Šmíd\Programování\3.A\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+H:\SPOLECNY\ZACI\Šmíd\Programování\3.A\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+H:\SPOLECNY\ZACI\Šmíd\Programování\3.A\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+H:\SPOLECNY\ZACI\Šmíd\Programování\3.A\35.Množinové operace (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
