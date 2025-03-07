@@ -1,0 +1,72 @@
+D:\Škola\Výuka\C#\Programy\1.ročník\7.Aritmetický průměr\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Škola\Výuka\C#\Programy\1.ročník\7.Aritmetický průměr\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Škola\Výuka\C#\Programy\1.ročník\7.Aritmetický průměr\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Škola\Výuka\C#\Programy\1.ročník\7.Aritmetický průměr\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Škola\Výuka\C#\Programy\1.ročník\7.Aritmetický průměr\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Škola\Výuka\C#\Programy\1.ročník\7.Aritmetický průměr\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Škola\Výuka\C#\Programy\1.ročník\7.Aritmetický průměr\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Škola\Výuka\C#\Programy\1.ročník\7.Aritmetický průměr\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Škola\Výuka\C#\Programy\1.ročník\7.Aritmetický průměr\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+P:\Škola\Výuka\C#\Programy\1.ročník\8.Náhodná čísla, min, max\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+P:\Škola\Výuka\C#\Programy\1.ročník\8.Náhodná čísla, min, max\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+P:\Škola\Výuka\C#\Programy\1.ročník\8.Náhodná čísla, min, max\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+P:\Škola\Výuka\C#\Programy\1.ročník\8.Náhodná čísla, min, max\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+P:\Škola\Výuka\C#\Programy\1.ročník\8.Náhodná čísla, min, max\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+P:\Škola\Výuka\C#\Programy\1.ročník\8.Náhodná čísla, min, max\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+P:\Škola\Výuka\C#\Programy\1.ročník\8.Náhodná čísla, min, max\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+P:\Škola\Výuka\C#\Programy\1.ročník\8.Náhodná čísla, min, max\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+P:\Škola\Výuka\C#\Programy\1.ročník\8.Náhodná čísla, min, max\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\DATA\Škola\Výuka\C#\Programy\Příklady pro výuku\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\smid\Desktop\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\smid\Desktop\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\smid\Desktop\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\smid\Desktop\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\smid\Desktop\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\smid\Desktop\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\smid\Desktop\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\smid\Desktop\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\smid\Desktop\22.Náhodná čísla v zadaném počtu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\smid\Desktop\23.Náhodná čísla v zadaném počtu (pole)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\smid\Desktop\23.Náhodná čísla v zadaném počtu (pole)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\smid\Desktop\23.Náhodná čísla v zadaném počtu (pole)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\smid\Desktop\23.Náhodná čísla v zadaném počtu (pole)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\smid\Desktop\23.Náhodná čísla v zadaném počtu (pole)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\smid\Desktop\23.Náhodná čísla v zadaném počtu (pole)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\smid\Desktop\23.Náhodná čísla v zadaném počtu (pole)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\smid\Desktop\23.Náhodná čísla v zadaném počtu (pole)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\smid\Desktop\23.Náhodná čísla v zadaném počtu (pole)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
