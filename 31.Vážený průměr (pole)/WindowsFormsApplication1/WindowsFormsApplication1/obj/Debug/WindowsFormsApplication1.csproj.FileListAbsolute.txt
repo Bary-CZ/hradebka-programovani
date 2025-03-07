@@ -1,0 +1,27 @@
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Škola\Výuka\C#\Programy\Příklady pro výuku\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Škola\Výuka\C#\Programy\Příklady pro výuku\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Škola\Výuka\C#\Programy\Příklady pro výuku\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Škola\Výuka\C#\Programy\Příklady pro výuku\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Škola\Výuka\C#\Programy\Příklady pro výuku\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Škola\Výuka\C#\Programy\Příklady pro výuku\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Škola\Výuka\C#\Programy\Příklady pro výuku\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Škola\Výuka\C#\Programy\Příklady pro výuku\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Škola\Výuka\C#\Programy\Příklady pro výuku\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\smid\Desktop\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\smid\Desktop\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\smid\Desktop\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\smid\Desktop\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\smid\Desktop\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\smid\Desktop\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\smid\Desktop\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\smid\Desktop\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\smid\Desktop\31.Vážený průměr (pole)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
