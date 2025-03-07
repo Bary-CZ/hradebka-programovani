@@ -1,0 +1,1 @@
+Vytvořte form aplikaci c#, ktera bude vypisovat aritmetickou posloupnost o zadanem prvnim clenu a diferenci do tabulky o zadanem poctu radku a sloupcu

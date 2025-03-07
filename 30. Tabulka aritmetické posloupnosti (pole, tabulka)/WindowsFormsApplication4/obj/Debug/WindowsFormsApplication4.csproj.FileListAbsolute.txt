@@ -1,0 +1,45 @@
+\\bob\staff$\smid\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+\\bob\staff$\smid\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+\\bob\staff$\smid\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+\\bob\staff$\smid\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+\\bob\staff$\smid\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+\\bob\staff$\smid\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+\\bob\staff$\smid\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+\\bob\staff$\smid\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+\\bob\staff$\smid\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\smid\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\smid\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\smid\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\30.Matice náhodných čísel (pole,tabulka)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\30.Matice náhodných čísel (pole,tabulka)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\30.Matice náhodných čísel (pole,tabulka)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\30.Matice náhodných čísel (pole,tabulka)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\30.Matice náhodných čísel (pole,tabulka)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\30.Matice náhodných čísel (pole,tabulka)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\30.Matice náhodných čísel (pole,tabulka)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\30.Matice náhodných čísel (pole,tabulka)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\30.Matice náhodných čísel (pole,tabulka)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\smid\Desktop\30.Matice náhodných čísel (pole,tabulka)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\smid\Desktop\30.Matice náhodných čísel (pole,tabulka)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\smid\Desktop\30.Matice náhodných čísel (pole,tabulka)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\smid\Desktop\30.Matice náhodných čísel (pole,tabulka)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\smid\Desktop\30.Matice náhodných čísel (pole,tabulka)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\smid\Desktop\30.Matice náhodných čísel (pole,tabulka)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\smid\Desktop\30.Matice náhodných čísel (pole,tabulka)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\smid\Desktop\30.Matice náhodných čísel (pole,tabulka)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\smid\Desktop\30.Matice náhodných čísel (pole,tabulka)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\smid\Desktop\30.Matice čísel (pole,tabulka)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\smid\Desktop\30.Matice čísel (pole,tabulka)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\smid\Desktop\30.Matice čísel (pole,tabulka)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\smid\Desktop\30.Tabulka aritmetické posloupnosti(pole,tabulka)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\smid\Desktop\30.Tabulka aritmetické posloupnosti(pole,tabulka)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\smid\Desktop\30.Tabulka aritmetické posloupnosti(pole,tabulka)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+P:\30.Tabulka aritmetické posloupnosti (pole, tabulka)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+P:\30.Tabulka aritmetické posloupnosti (pole, tabulka)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+P:\30.Tabulka aritmetické posloupnosti (pole, tabulka)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+P:\30.Tabulka aritmetické posloupnosti (pole, tabulka)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+P:\30.Tabulka aritmetické posloupnosti (pole, tabulka)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+P:\30.Tabulka aritmetické posloupnosti (pole, tabulka)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+P:\30.Tabulka aritmetické posloupnosti (pole, tabulka)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+P:\30.Tabulka aritmetické posloupnosti (pole, tabulka)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+P:\30.Tabulka aritmetické posloupnosti (pole, tabulka)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
