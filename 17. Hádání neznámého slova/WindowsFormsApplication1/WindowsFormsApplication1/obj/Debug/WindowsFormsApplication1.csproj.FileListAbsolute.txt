@@ -1,0 +1,37 @@
+P:\Škola\Výuka\C#\Programy\1.ročník\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+P:\Škola\Výuka\C#\Programy\1.ročník\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+P:\Škola\Výuka\C#\Programy\1.ročník\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+P:\Škola\Výuka\C#\Programy\1.ročník\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+P:\Škola\Výuka\C#\Programy\1.ročník\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+P:\Škola\Výuka\C#\Programy\1.ročník\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+P:\Škola\Výuka\C#\Programy\1.ročník\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+P:\Škola\Výuka\C#\Programy\1.ročník\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+P:\Škola\Výuka\C#\Programy\1.ročník\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Martin\Desktop\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Martin\Desktop\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Martin\Desktop\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Martin\Desktop\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Martin\Desktop\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Martin\Desktop\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Martin\Desktop\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Martin\Desktop\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\smid\Desktop\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\smid\Desktop\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\smid\Desktop\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\smid\Desktop\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\smid\Desktop\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\smid\Desktop\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\smid\Desktop\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\smid\Desktop\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+P:\Škola\Výuka\C#\Programy\Příklady pro výuku\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\smid\Desktop\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\smid\Desktop\17. Hádání neznámého slova\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
